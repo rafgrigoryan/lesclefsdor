@@ -488,6 +488,14 @@
     object-fit: cover;
 }
 
+.contact-header{
+    font-size: calc(1rem + .3vw);
+}
+
+.contact-body{
+    font-size: calc(1rem - .2vw);
+}
+
 @media (min-width: 992px) {
 
     .container,
