@@ -487,3 +487,21 @@
     height: 100%;
     object-fit: cover;
 }
+
+@media (min-width: 992px) {
+
+    .container,
+    .container-sm,
+    .container-md,
+    .container-lg {
+        max-width: 960px
+    }
+}
+
+@media (min-width: 992px) {
+    .main-text
+    {
+        width: 100%;
+        text-align: center !important;
+    }
+}
