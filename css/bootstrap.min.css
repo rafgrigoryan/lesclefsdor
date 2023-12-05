@@ -4467,7 +4467,8 @@ fieldset:disabled .btn {
 }
 
 .navbar-nav .dropdown-menu {
-    position: static
+    position: static;
+    border-radius: 25px;
 }
 
 .navbar-text {
