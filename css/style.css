@@ -503,7 +503,7 @@
 
 .t-span {
     font-weight: 500;
-    color: rgb(255, 0, 0);
+    color: #FEA116;
     font-style: italic
 }
 
@@ -536,7 +536,7 @@
 }
 
 .dis-color {
-    color: red;
+    color: #FEA116;
     font-weight: 500;
     margin-top: 10px;
 }
