@@ -541,6 +541,11 @@
     margin-top: 10px;
 }
 
+.s-web {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 @media (min-width: 992px) {
 
     .container,
