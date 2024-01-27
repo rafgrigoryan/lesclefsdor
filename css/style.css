@@ -139,6 +139,10 @@
 }
 
 @media (min-width: 992px) {
+    .top-text {
+        margin-top: 85px;
+    }
+
     .navbar-dark {
         position: absolute;
         width: 100%;
